@@ -9,6 +9,9 @@ You can see full list of available commands I could use in this project in attac
 - ra && rb -> rotate according stack clockwise
 - rra && rrb -> rotate according stack anticlockwise
 
+###### How to run:
+Run **make** in your terminal and then ./push_swap "Your_numbers i.e. : 007 -21 +42".
+
 ***Final greade: 9 / 10:***
 *It sorts 100 numbers in  less than 700 moves (5 / 5) and 500 numbers in less than 7000 moves (4 / 5)
 P.S. I am pretty sure that I have optimised every step in my algorithm, but unfortinutly it looks like for large set I simply had to use different algorithm in order to det maximum greade.*
