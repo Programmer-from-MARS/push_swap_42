@@ -1,6 +1,11 @@
 # push_swap_42
 The Push_swap project is a very simple and highly effective algorithm project: data will need to be sorted. You have at your disposal a set of int values, 2 stacks and a set of instructions to manipulate both stacks.
 You can see full list of available commands I could use in this project in attached pdf, but here are commands I ended up using in that project:
+```
+git clone https://github.com/Programmer-from-MARS/push_swap_42.git
+cd push_swap
+make
+```
 ###### **PUSH**
 - pa && pb -> move first element to second stack
 ###### **SWAP**
