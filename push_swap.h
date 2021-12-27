@@ -6,7 +6,7 @@
 /*   By: eanastas <eanastas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/06 20:40:44 by eanastas          #+#    #+#             */
-/*   Updated: 2021/12/27 16:52:04 by eanastas         ###   ########.fr       */
+/*   Updated: 2021/12/27 17:20:36 by eanastas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -96,7 +96,6 @@ void	rrb(t_set *set_b);
 
 void	sa(t_set *set_a);
 void	sb(t_set *set_b);
-void	ss(t_set *set_a, t_set *set_b);
 void	pa(t_set *set_a, t_set *set_b);
 void	pb(t_set *set_a, t_set *set_b);
 
