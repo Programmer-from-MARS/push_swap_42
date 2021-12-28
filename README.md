@@ -1,11 +1,14 @@
 # push_swap_42
 The Push_swap project is a very simple and highly effective algorithm project: data will need to be sorted. You have at your disposal a set of int values, 2 stacks and a set of instructions to manipulate both stacks.
-You can see full list of available commands I could use in this project in attached pdf, but here are commands I ended up using in that project:
+
+###### How to run:
 ```
 git clone https://github.com/Programmer-from-MARS/push_swap_42.git
 cd push_swap
 make
+./push_swap "Your_numbers i.e. : 007 -21 +42"
 ```
+You can see full list of available commands I could use in this project in attached pdf, but here are commands I ended up using in that project:
 ###### **PUSH**
 - pa && pb -> move first element to second stack
 ###### **SWAP**
@@ -13,9 +16,6 @@ make
 ###### **ROTATIONS**
 - ra && rb -> rotate according stack clockwise
 - rra && rrb -> rotate according stack anticlockwise
-
-###### How to run:
-Run **make** in your terminal and then ./push_swap "Your_numbers i.e. : 007 -21 +42".
 
 ***Final greade: 9 / 10:***
 *It sorts 100 numbers in  less than 700 moves (5 / 5) and 500 numbers in less than 7000 moves (4 / 5)
